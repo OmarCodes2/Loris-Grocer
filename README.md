@@ -36,8 +36,33 @@ The Grocer Management System is a robust and user-friendly application designed 
 - **Starting the Application:** Run `python main.py` from the command line.
 - **Navigating Menus:** Follow the on-screen prompts to access different functionalities.
 
-## Code Examples
-*(Here, you can provide snippets of code from your project that showcase interesting or complex functionalities. For example, a snippet from `encryption.py` demonstrating the login logic.)*
+## Project Structure
+
+Each file in the Grocer Management System plays a specific role. Here's a brief overview of their functions:
+
+### `employee.py`
+Handles operations related to employee data management, such as displaying employee-related items.
+
+### `encryption.py`
+Manages the secure sign-in process, including user authentication and password encryption.
+
+### `error.py`
+Contains functions for error checking and validation, ensuring robust input handling throughout the application.
+
+### `functions.py`
+A utility file that stores various functions for Read, Update, and Delete operations, along with other utility functions like screen clearing.
+
+### `inventory.py`
+Facilitates inventory management, including displaying and updating inventory items.
+
+### `main.py`
+The main driver of the application, responsible for displaying menus, submenus, and initiating function calls for various modules.
+
+### `sales.py`
+Manages functionalities related to sales, including recording and processing sales transactions.
+
+### `table.py`
+Initializes the database and sets up the necessary tables, serving as the foundation for data storage in the system.
 
 ## Testing
 The application has been thoroughly tested for various scenarios, including database integrity, user input validation, and error handling. 
