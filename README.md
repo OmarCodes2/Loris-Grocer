@@ -71,7 +71,7 @@ The application has been thoroughly tested for various scenarios, including data
 Contributions to improve the Grocer Management System are welcome. Please refer to the contributing guidelines for more information.
 
 ## Authors and Acknowledgment
-- **Developed by:** [Your Name]
+- **Developed by:** Omar Bakr
 - **Acknowledgments:** Grateful to all who provided feedback and suggestions.
 
 ## License
